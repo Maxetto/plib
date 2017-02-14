@@ -32,6 +32,16 @@ public class AdditionalBlockBreaks extends SimpleModule<Core> implements Listene
         Material.BED_BLOCK,
         Material.WOOD_DOOR, // also
         Material.WOODEN_DOOR,
+        Material.ACACIA_DOOR_ITEM, //also
+        Material.ACACIA_DOOR,
+        Material.BIRCH_DOOR_ITEM, //also
+        Material.BIRCH_DOOR,
+        Material.SPRUCE_DOOR_ITEM, //also
+        Material.SPRUCE_DOOR,
+        Material.JUNGLE_DOOR_ITEM, //also
+        Material.JUNGLE_DOOR,
+        Material.DARK_OAK_DOOR_ITEM, //also
+        Material.DARK_OAK_DOOR,
         Material.IRON_DOOR, // also
         Material.IRON_DOOR_BLOCK,
         Material.REDSTONE_WIRE,
